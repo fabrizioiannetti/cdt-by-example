@@ -24,3 +24,10 @@ cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON ..
 ----
 
 the CDT build is set up to use `build/Makefile`.
+
+== How is the CDT project configured? ==
+
+The `compilation database parser` is enabled, along with
+
+image::doc/settings_providers.png[doc/settings-provider.png]
+

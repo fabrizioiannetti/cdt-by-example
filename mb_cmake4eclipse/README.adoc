@@ -1,0 +1,13 @@
+= Managed build with CMake4Eclipse =
+
+A project that uses managed build and the
+link:https://github.com/15knots/cmake4eclipse[cmake4eclipse] plugin.
+
+== Importing ==
+
+Import as an existing eclipse project into any workspace.
+
+== Building ==
+
+The `cmake4eclipse` plugin takes care of the build, so just use the
+_hammer_ drop-down to select the target to build. 
